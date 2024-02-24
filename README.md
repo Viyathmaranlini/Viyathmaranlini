@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viyathmaarukgoda&label=Profile%20views&color=0e75b6&style=flat" alt="viyathmaarukgoda" /> </p>
 
-☘️ I’m currently Undergraduate Student at **NSBM Green University**
-📩 How to reach me: viyathmaawa@gmail.com
-✨ Fun facts about me: I love coding+reading+traveling 🤗 
+<p>☘️ I’m currently Undergraduate Student at NSBM Green University</p>
+<p>📩 How to reach me: viyathmaawa@gmail.com</p>
+<p>✨ Fun facts about me: I love coding+reading+traveling🤗</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

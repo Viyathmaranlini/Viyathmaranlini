@@ -1,7 +1,6 @@
 <h1 align="center">Hi👋, I'm Viyathma Arukgoda</h1>
 <h3 align="center">💻A passionate Computer Science Student👩‍🎓</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viyathmaarukgoda&label=Profile%20views&color=0e75b6&style=flat" alt="viyathmaarukgoda" /> </p>
 
 <p>☘️ I’m currently Undergraduate Student at NSBM Green University</p>
 <p>📩 How to reach me: viyathmaawa@gmail.com</p>

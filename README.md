@@ -2,9 +2,14 @@
     <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
+     <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Viyathma+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver" alt="Headline" />
+    </div>
 
-<h1 align="center">Hi👋, I'm Viyathma Arukgoda</h1>
-<h3 align="center">💻A passionate Computer Science Student👩‍🎓</h3>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 ### My topic
 

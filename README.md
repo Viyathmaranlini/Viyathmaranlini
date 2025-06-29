@@ -26,7 +26,7 @@
 
    
   ## Tools and Technologies
-[![Technologies](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,expressjs,nestjs,graphql,mongodb,mysql,redis,sass,tailwind,materialui,bootstrap,docker,aws,jest,flutter,dotnet,js,ts,java,py,c,arduino,linux)](https://www.ashandimantha.live/)
+[![Technologies](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,expressjs,nestjs,mongodb,mysql,tailwind,docker,aws,flutter,dotnet,js,ts,java,py,c,arduino,linux)]
 
 
 <br>

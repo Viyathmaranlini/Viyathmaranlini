@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Viyathmaranlini&label=Profile%20views&color=10EC55&style=flat" alt="Viyathmaranlini" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Viyathmaranlini&label=Profile%20views&color=blue&style=flat" alt="Viyathmaranlini" /> </p>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Talking about Personal Stuffs...
 

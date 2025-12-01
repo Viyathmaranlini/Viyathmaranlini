@@ -12,10 +12,10 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Talking about Personal Stuffs...
 
-<p>☘️ Computer Science Undergraduate at NSBM Green University</p>
+<p>👩‍🎓Computer Science Undergraduate at NSBM Green University</p>
 <p>🌱 Currently learning MERN Stack</p>
 <p>📩 How to reach me: viyathmaawa@gmail.com</p>
-<p>✨ Fun facts about me: I love coding+reading+traveling🤗</p><br></br>
+<p>✨ Fun facts about me:  I love Coding+Reading+Traveling🤗</p><br></br>
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Connect with me

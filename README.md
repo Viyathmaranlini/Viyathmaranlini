@@ -41,18 +41,20 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>Statistical Data<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
+## 📊 GitHub Stats
 
-<br>
+<p align="center">
+  <a href="https://github.com/viyathmaranlini">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viyathmaranlini&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00b894&icon_color=00b894&text_color=ffffff&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viyathmaranlini&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00b894&text_color=ffffff" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viyathmaranlini&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="viyathmaranlini" /></p>
+<p align="center">
+  <a href="https://github.com/viyathmaranlini">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=viyathmaranlini&theme=radical&hide_border=true&background=0d1117&stroke=00b894&ring=00b894&fire=ff6b6b&currStreakLabel=00b894" alt="GitHub Streak" />
+  </a>
+</p>
 
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viyathmaranlini&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff" alt="viyathmaranlini" /></p>
-
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 

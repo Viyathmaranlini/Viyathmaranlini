@@ -4,11 +4,11 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Viyathma+Arukgoda+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver" alt="Headline" />
     </div>
 <div>
-    <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
+<p><img align="right" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Woman Coding" /></p>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Viyathmaranlini&label=Profile%20views&color=blue&style=flat" alt="Viyathmaranlini" /> </p>
+
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Talking about Personal Stuffs...
 

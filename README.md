@@ -12,10 +12,18 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Talking about Personal Stuffs...
 
-<p>👩‍🎓Computer Science Undergraduate at NSBM Green University</p>
-<p>🌱 Currently learning MERN Stack</p>
-<p>📩 How to reach me: viyathmaawa@gmail.com</p>
-<p>✨ Fun facts about me:  I love Coding+Reading+Traveling🤗</p><br></br>
+## 👩‍💻 About Me
+
+🎓 Final year **Computer Science** undergraduate at **NSBM Green University**, Sri Lanka
+
+🤖 Passionate about **AI-driven solutions** and **Machine Learning**
+
+🚀 Love **problem-solving**, **system design**, and building **real-world applications**
+
+🌱 Continuously learning and exploring new technologies
+
+✨ Outside of coding: Reading 📚 | Exploring new places 🌍 | Personal growth 🌱
+
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Connect with me

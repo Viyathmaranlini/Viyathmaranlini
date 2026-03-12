@@ -45,7 +45,7 @@
 <p align="center">
   <a href="https://github.com/viyathmaranlini">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viyathmaranlini&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00b894&icon_color=00b894&text_color=ffffff&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viyathmaranlini&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00b894&text_color=ffffff" />
+    
   </a>
 </p>
 

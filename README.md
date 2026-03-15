@@ -47,7 +47,7 @@
   <p align="center">
    
   <img src="https://github-readme-stats.vercel.app/api?username=viyathmaranlini&show_icons=true&count_private=true&theme=algolia" alt="Viyathma's GitHub Stats" height="237"/>   &nbsp; 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viyathmaranlini&langs_count=6&layout=compact&theme=algolia" height="237"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viyathmaranlini&langs_count=10&layout=compact&theme=algolia" height="237"/>
     
   
   </p>

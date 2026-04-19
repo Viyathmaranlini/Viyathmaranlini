@@ -34,8 +34,37 @@
 </p><br></br>
 
    
-  ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Tools and Technologies
-![Technologies](https://skillicons.dev/icons?i=postman,react,nextjs,redux,nodejs,expressjs,nestjs,mongodb,mysql,tailwind,docker,aws,flutter,dotnet,js,ts,java,py,c,arduino,linux)
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Tools and Technologies
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+
+### 🖥️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+### ⚙️ Tools & Platforms
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 
 <br>

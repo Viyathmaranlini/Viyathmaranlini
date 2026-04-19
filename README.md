@@ -31,9 +31,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/viyathma arukgoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viyathma arukgoda" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/viyathma arukgoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="viyathma arukgoda" height="30" width="40" /></a>
-</p><br></br>
+</p>
 
-   
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Tools and Technologies
 
 

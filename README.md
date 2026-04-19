@@ -36,35 +36,36 @@
    
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Tools and Technologies
 
+
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
+![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp)
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
 
 ### 🖥️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
-![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=for-the-badge&logo=nestjs)
+![.NET](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=dotnet)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 
 ### ⚙️ Tools & Platforms
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 
 
 <br>

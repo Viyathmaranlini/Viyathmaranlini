@@ -14,16 +14,17 @@
 
 ## 👩‍💻 About Me
 
-🎓 Final year **Computer Science** undergraduate at **NSBM Green University**, Sri Lanka
+🎓 Final-year Computer Science undergraduate at NSBM Green University, Sri Lanka
 
-🤖 Passionate about **AI-driven solutions** and **Machine Learning**
+📊 Interested in Data Analytics, Data Visualization, and Business Intelligence
 
-🚀 Love **problem-solving**, **system design**, and building **real-world applications**
+🤖 Passionate about exploring AI/ML applications in data-driven systems
 
-🌱 Continuously learning and exploring new technologies
+🚀 Skilled in Python, SQL, and data analysis workflows
 
-✨ Outside of coding: Reading 📚 | Exploring new places 🌍 | Personal growth 🌱
+🌱 Currently building real-world projects in data analytics and machine learning
 
+✨ Outside coding: Reading 📚 | Exploring 🌍 | Personal growth 🌱
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Connect with me

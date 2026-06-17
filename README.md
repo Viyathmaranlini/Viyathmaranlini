@@ -16,7 +16,7 @@
 
 🎓 Final-year Computer Science undergraduate at NSBM Green University, Sri Lanka
 
-📊 Interested in Data Analytics, Data Visualization, and Business Intelligence
+📊 Interested in Data Analysis, Machine Learning, and Cloud Computing
 
 🤖 Passionate about exploring AI/ML applications in data-driven systems
 

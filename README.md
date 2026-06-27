@@ -16,13 +16,13 @@
 
 🎓 Final-year Computer Science undergraduate at NSBM Green University, Sri Lanka
 
-📊 Interested in Data Analysis, Machine Learning, and Cloud Computing
+☁️ Passionate about Cloud Computing, DevOps architectures, and Machine Learning
 
-🤖 Passionate about exploring AI/ML applications in data-driven systems
+🤖 Experienced in exploring AI/ML applications and building data-driven systems
 
-🚀 Skilled in Python, SQL, and data analysis workflows
+🚀 Skilled in Python, SQL, JavaScript (MERN Stack & Next.js), and Data Analysis workflows
 
-🌱 Currently building real-world projects in data analytics and machine learning
+🌱 Currently building and deploying real-world projects with Cloud Integration & Machine Learning
 
 ✨ Outside coding: Reading 📚 | Exploring 🌍 | Personal growth 🌱
 

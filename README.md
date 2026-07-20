@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Viyathma+Arukgoda+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Always+learning+new+things" alt="Headline" />
@@ -14,13 +14,11 @@
 
 ## 👩‍💻 About Me
 
-🎓 Final-year Computer Science undergraduate at NSBM Green University, Sri Lanka
+🎓 Final-year Computer Science Undergraduate @ NSBM Green University
 
-☁️ Passionate about Cloud Computing, DevOps architectures, and Machine Learning
+☁️ Passionate about Cloud Computing, DevOps, and Machine Learning
 
 🤖 Experienced in exploring AI/ML applications and building data-driven systems
-
-🚀 Skilled in Python, SQL, JavaScript (MERN Stack & Next.js), and Data Analysis workflows
 
 🌱 Currently building and deploying real-world projects with Cloud Integration & Machine Learning
 
@@ -48,7 +46,6 @@
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
-![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
 
 ### 🖥️ Backend
@@ -64,6 +61,7 @@
 ### ⚙️ Tools & Platforms
 ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Azure](https://img.shields.io/badge/-Azure-black?style=for-the-badge&logo=microsoftazure)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)

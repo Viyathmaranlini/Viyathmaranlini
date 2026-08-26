@@ -69,24 +69,14 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; GitHub Stats
-
-<details open>
-  <br />
-  <p align="center">
-   
-  <img src="https://github-readme-stats.vercel.app/api?username=viyathmaranlini&show_icons=true&count_private=true&theme=algolia" height="237"/>  &nbsp; 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viyathmaranlini&langs_count=10&layout=compact&theme=algolia&include=JupyterNotebook" height="237"/>
-    
-  
-  </p>
-</details>
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" /> GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/viyathmaranlini">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=viyathmaranlini&theme=radical&hide_border=true&background=0d1117&stroke=00b894&ring=00b894&fire=ff6b6b&currStreakLabel=00b894" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Viyathmaranlini&layout=compact&theme=algolia&langs_count=8&include_all_commits=true" alt="Top Languages" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Viyathmaranlini&theme=radical&hide_border=true&background=0d1117&stroke=00b894&ring=00b894&fire=ff6b6b&currStreakLabel=00b894" alt="GitHub Streak" />
+</p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />

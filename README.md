@@ -62,7 +62,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Azure](https://img.shields.io/badge/-Azure-black?style=for-the-badge&logo=microsoftazure)
-![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
 

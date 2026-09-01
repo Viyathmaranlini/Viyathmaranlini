@@ -71,7 +71,6 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" /> GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Viyathmaranlini&show_icons=true&count_private=true&include_all_commits=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Viyathmaranlini&layout=compact&theme=algolia&langs_count=8&hide_border=true" alt="Top Languages" />
 </p>
 

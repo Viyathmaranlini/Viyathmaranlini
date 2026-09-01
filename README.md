@@ -72,11 +72,14 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" /> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Viyathmaranlini&layout=compact&theme=algolia&langs_count=8&include_all_commits=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Viyathmaranlini&show_icons=true&count_private=true&include_all_commits=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Viyathmaranlini&layout=compact&theme=algolia&langs_count=8&hide_border=true" alt="Top Languages" />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Viyathmaranlini&theme=radical&hide_border=true&background=0d1117&stroke=00b894&ring=00b894&fire=ff6b6b&currStreakLabel=00b894" alt="GitHub Streak" />
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />

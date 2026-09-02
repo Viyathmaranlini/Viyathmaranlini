@@ -7,7 +7,6 @@
 <p><img align="right" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Woman Coding" /></p>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Viyathmaranlini&label=Profile%20views&color=blue&style=flat" alt="Viyathmaranlini" /> </p>
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Talking about Personal Stuffs...

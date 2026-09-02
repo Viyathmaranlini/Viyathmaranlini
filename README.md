@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img height="250" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Viyathmaranlini&layout=compact&theme=algolia&langs_count=12&hide_border=true" alt="Top Languages" />
+  <img height="250" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Viyathmaranlini&layout=compact&theme=algolia&langs_count=8&hide_border=true" alt="Top Languages" />
 </p>
 
 

@@ -25,6 +25,7 @@
 ✨ Outside coding: Reading 📚 | Exploring 🌍 | Personal growth 🌱
 
 
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
@@ -59,9 +60,6 @@
 <p align="center">
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Viyathmaranlini&layout=compact&theme=algolia&langs_count=8&hide_border=true" alt="Top Languages" />
 </p>
-
-
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />

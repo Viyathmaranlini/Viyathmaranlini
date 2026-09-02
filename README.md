@@ -32,40 +32,28 @@
 <a href="https://www.hackerrank.com/viyathma arukgoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="viyathma arukgoda" height="30" width="40" /></a>
 </p>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Tools and Technologies
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Languages and Tools
 
-
-### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
 ![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp)
-
-### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
-
-### 🖥️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=for-the-badge&logo=nestjs)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=dotnet)
-
-### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
-
-### ⚙️ Tools & Platforms
 ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Azure](https://img.shields.io/badge/-Azure-black?style=for-the-badge&logo=microsoftazure)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
-
-
 <br>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" /> GitHub Stats
